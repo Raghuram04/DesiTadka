@@ -1,0 +1,22 @@
+@media ( min-width : 992px) {
+	.test {
+		height: 550px;
+	}
+}
+
+@media ( min-width : 1200px) {
+	.test {
+		height: 550px;
+	}
+}
+
+
+
+.headertext {
+	font-weight: bold;
+}
+
+.carousel-inner img {
+	width: 100%;
+	height: 100%;
+}
